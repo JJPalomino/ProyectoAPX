@@ -77,4 +77,3 @@ No me lo genera en la base de datos aunque se marque un OK
 
 ![Image](https://github.com/user-attachments/assets/a9584651-6e51-4cd3-b188-4f85831ed631)
 
-![Image](https://github.com/user-attachments/assets/fc9bc007-e495-4eb1-a73e-0bb97b42e28a)
